@@ -1,0 +1,11 @@
+[package]
+name = "treap-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Treap with random priorities, split/merge operations, union, intersection, and order statistics"
+license = "MIT"
+repository = "https://github.com/SuperInstance/treap-rs"
+keywords = ["treap", "tree", "data-structure", "randomized", "bst"]
+categories = ["data-structures"]
+
+[dependencies]
